@@ -1,4 +1,4 @@
-const productModel = require('../Models/Product');
+const productModel = require('../Models/product');
 const cloudinary = require('../Utils/cloudnary');
 const fs = require('fs');
 
